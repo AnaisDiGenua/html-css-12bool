@@ -19,6 +19,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 .p-10 {
     padding: 10px;
